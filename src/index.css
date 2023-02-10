@@ -434,7 +434,7 @@ section .header button:hover {
 }
 
 .facilities {
-  background-image: url('../public/assets/Images/BG.jpg');
+  background-image: url('../public/assets/Images/bg.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
